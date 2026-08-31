@@ -1,0 +1,28 @@
+{
+  "title": "wildfire-flood-cascade-utac — P121: real fire-season shift, precipitation-intensification, and flood-risk-amplification cascade",
+  "description": "<p>Real fire-season timing shift (regionally divergent, not global -- Fan et al. 2026 GRL, DOI 10.1029/2025GL121153; Madakumbura et al. 2025 Sci Adv, DOI 10.1126/sciadv.adt2041), two independent precipitation-intensification mechanisms (smoke-aerosol invigoration, Zhu et al. 2025 npj Clim Atmos Sci, DOI 10.1038/s41612-025-01047-3; warmer-SST moisture, Calvo-Sancho et al. 2026 Nat Comms, DOI 10.1038/s41467-026-68929-9), and three independent flood-severity-amplification mechanisms (post-fire canopy loss, Kang et al. 2025 Comm Earth Environ, DOI 10.1038/s43247-025-02748-6; degraded river channels/floodplains, Hawker et al. 2026 Comm Earth Environ, DOI 10.1038/s43247-026-03517-9; settlement-area sealing, Azadgar et al. 2026 J Environ Manag, DOI 10.1016/j.jenvman.2026.129513). A dedicated synthesis module makes explicit that the full combined cascade is not itself a single directly-studied finding, though every component link is real. Deliberately no UTAC/CREP/AFET bridge and no invented Gamma value -- see DISCLAIMER.md. Part of the <strong>GenesisAeon</strong> ecosystem (P121, domain: climate / hydrology).</p>",
+  "creators": [
+    {
+      "name": "Römer, Johann",
+      "affiliation": "Independent Researcher / MOR Research Collective"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "version": "1.0.0",
+  "keywords": [
+    "GenesisAeon",
+    "P121",
+    "climate",
+    "wildfire",
+    "precipitation",
+    "flood risk",
+    "open-science"
+  ],
+  "communities": [
+    {
+      "identifier": "genesisaeon"
+    }
+  ]
+}
