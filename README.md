@@ -6,6 +6,10 @@ intensification mechanisms, and three independent flood-severity-
 amplification mechanisms. **Deliberately has no UTAC/CREP/AFET bridge**
 — see [DISCLAIMER.md](DISCLAIMER.md).
 
+For a plain-language explanation of the same topic (German, no jargon,
+written for general audiences/science communicators), see
+[WHITEPAPER.md](WHITEPAPER.md).
+
 ## Where this package came from
 
 Johann's own subjective observation ("fires seem to start earlier now,
