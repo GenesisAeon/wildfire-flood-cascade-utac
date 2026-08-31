@@ -1,6 +1,6 @@
 [project]
 name = "wildfire-flood-cascade-utac"
-version = "1.0.0"
+version = "1.0.1"
 description = "Real fire-season shift, precipitation-intensification, and flood-risk-amplification cascade -- 7 independently verified papers, no UTAC/CREP/AFET bridge"
 readme = "README.md"
 license = { text = "MIT" }

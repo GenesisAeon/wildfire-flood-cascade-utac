@@ -82,7 +82,7 @@ from .urban_sealing_amplification import (
     study_period,
 )
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 __all__ = [
     "AZADGAR_2026_CITATION",
